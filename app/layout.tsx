@@ -8,9 +8,9 @@ export const metadata: Metadata = {
   title: 'SHEBN',
   description: 'Get ready everyone! We are currently working on something awesome.',
   icons: {
-    icon: '/favicon.ico',
-    shortcut: '/favicon.ico',
-    apple: '/favicon.ico',
+    icon: '/icon.png',
+    shortcut: '/icon.png',
+    apple: '/icon.png',
   },
 }
 
